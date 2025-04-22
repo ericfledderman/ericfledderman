@@ -1,4 +1,4 @@
-### Intro
+# About
 Hi, I’m Eric. You must be wondering how I got here...
 
 ### Past
