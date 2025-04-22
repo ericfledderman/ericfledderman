@@ -1,16 +1,11 @@
 ```
-const aboutMe = {
-  id : '@ericfledderman',
+Hi, I’m Eric. You must be wondering how I got here...
 
-  interestedIn  : [ 'javascript', 'node.js', 'ux/ui' ],
-  learningNow   : [ 'gml', 'typescript' ],
-  collaborateOn : [ 'game-development' ],
+It started with dial-up, a stack of “DEV for Dummies” books, and a dangerous level of curiosity.  I’ve been releasing features since before AIM had away messages.
 
-  contact : {
-    email   : 'eric@ericfledderman.me',
-    twitter : 'ericfledderman'
-  }
-}
+Now I help small businesses move fast, work smart, and cut through the bullshit.  Tech doesn’t have to be complicated—it just has to work.
+
+Let’s build cool shit.
 ```
 
 <!---
