@@ -1,4 +1,3 @@
-```
 ###### Intro
 Hi, I’m Eric. You must be wondering how I got here...
 
@@ -10,7 +9,6 @@ Now I help small businesses move fast, work smart, and cut through the bullshit.
 
 ###### Future
 Let’s build cool shit.
-```
 
 <!---
 ericfledderman/ericfledderman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
